@@ -151,7 +151,5 @@ For backend
 │── logs/                  # Log files 
 
 
-
-
-
-
+Note: The test in frontend is failing to an error Unknown ".css"  file in the adobe-react-spectrum. I tried to fix that by 
+trying to mock css but I was not able to yet. 
