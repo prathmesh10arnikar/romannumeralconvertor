@@ -1,0 +1,11 @@
+# Node.js (React frontend)
+frontend/node_modules/
+frontend/.env
+
+# Java (Spring Boot or other frameworks)
+backend/target/
+backend/.idea/
+backend/.env
+
+# General
+.DS_Store

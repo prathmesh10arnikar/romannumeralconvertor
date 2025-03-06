@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.romannumeral.RomanNumeralApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-06T05:35:26" hostname="Prathmeshs-MacBook-Pro.local" time="0.417">
+  <properties/>
+  <testcase name="shouldConvertToRomanNumeral_invalidInput()" classname="com.romannumeral.RomanNumeralApplicationTest" time="0.38"/>
+  <testcase name="shouldConvertToRomanNumeral_validInput()" classname="com.romannumeral.RomanNumeralApplicationTest" time="0.036"/>
+  <system-out><![CDATA[21:35:26.135 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.romannumeral.RomanNumeralApplicationTest]: RomanNumeralApplicationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:35:26.176 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.romannumeral.RomanNumeralApplication for test class com.romannumeral.RomanNumeralApplicationTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.3)
+
+2025-03-05 21:35:26 [Test worker] INFO  c.r.RomanNumeralApplicationTest - Starting RomanNumeralApplicationTest using Java 17.0.6 with PID 33447 (started by prats in /Users/prats/Documents/Projects/Java/RomanNumeralConvertor)
+2025-03-05 21:35:26 [Test worker] INFO  c.r.RomanNumeralApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2025-03-05 21:35:26 [Test worker] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoints beneath base path '/actuator'
+2025-03-05 21:35:26 [Test worker] INFO  c.r.RomanNumeralApplicationTest - Started RomanNumeralApplicationTest in 0.664 seconds (process running for 1.095)
+2025-03-05 21:35:27 [Test worker] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-03-05 21:35:27 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-03-05 21:35:27 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-03-05 21:35:27 [Test worker] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-03-05 21:35:27 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-03-05 21:35:27 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
